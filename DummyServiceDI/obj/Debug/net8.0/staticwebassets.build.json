@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tdN/Lr4hksKgkR7xevDvQGAndG0+z95sgLmdF6fcs/w=",
+  "Source": "DummyServiceDI",
+  "BasePath": "_content/DummyServiceDI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
